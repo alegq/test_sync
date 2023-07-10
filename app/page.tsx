@@ -9,7 +9,7 @@ export default function Home() {
     <RootLayout>
       <main>
         <Header />
-        <div className={styles.main}>dddc</div>
+        <div className={styles.main}></div>
         <Footer />
       </main>
     </RootLayout>
